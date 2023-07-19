@@ -1,0 +1,14 @@
+git init 
+git remote add origin "repo url"
+git remote -v
+git checkout main
+git status
+git add .
+git commit -m "commit message"
+git push origin main
+git log
+
+git push -f origin main >> forcefully pushed
+
+git checkout "branch"
+git rm -r cached

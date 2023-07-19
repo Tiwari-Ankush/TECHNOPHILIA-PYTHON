@@ -1,0 +1,12 @@
+# why version control system?
+
+# why git?
+
+
+# git>>
+# git is fast
+# eaasy to Use 
+# it is a distributed system
+# most widely used system 
+# open and free 
+
