@@ -1,5 +1,6 @@
 # why we used function in python?
 
+# some inbuilt functions in  python? 
 
 # we used type() function before
 # it is like piece of reusable code
