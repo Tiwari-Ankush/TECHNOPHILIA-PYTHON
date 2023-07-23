@@ -1,3 +1,8 @@
+
+print(""" 
+    HANGMAN GAME :)
+""")
+
 from random_word import pick_random_word
 
 def change_current_word_state(selected_word,input_char,current_word_state):
