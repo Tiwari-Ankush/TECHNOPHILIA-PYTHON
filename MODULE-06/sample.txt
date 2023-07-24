@@ -1,0 +1,6 @@
+numpy = numerical python
+
+pip in python ?
+
+numpy module in python?
+
