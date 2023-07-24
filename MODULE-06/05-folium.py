@@ -17,6 +17,7 @@ from folium import plugins
 stationArr = df[['Y','X']].values  #x and y represents longitude and latitude respectively
 # print(type(stationArr))
 
+
 m = folium.Map(location=[stationArr[0][0],stationArr[0][1]], zoom_start=18)
 #map is a funtion it requires two args
 m.add_child(plugins.HeatMap(stationArr[:50000], radius=30))
