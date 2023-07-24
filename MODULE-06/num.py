@@ -31,20 +31,23 @@ print(a)
 a = np.eye(3)
 print(a)
 
-a = np.random.randint(2,100, (2,2))
+a = np.random.randint(2,100, (2,2)) # from 2 to 100 random number, and 2 by 2 ka matrix
+
 print(a)
 
 x = np.array([[1,2],[3,4]])
 y = np.array([[5,6],[7,8]])
 
+print(np.add(x,y))
 # print(np.multiply(y,x))
 # print(np.divide(y,x))
 
 
-# print(np.sqrt(x))
+print(np.sqrt(x))
 
-# print(x.ndim)
-# print(x.shape)
+print(x.ndim)
+print(x.shape)
 
-# print(np.dot(x,y))
+print(np.dot(x,y)) #dot product
+print(np.cross(x,y))  #cross product
 

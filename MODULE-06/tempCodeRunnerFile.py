@@ -1,2 +1,4 @@
-,5), 1876)
-print(a)
+(x))
+
+print(x.ndim)
+print(x.shape)
