@@ -1,5 +1,7 @@
 # what is dictionart in python?
 
+# there is no indexing in dictionary .
+
 # dictionary is basically >>
 # built in mapping type 
 # it maps keys to values

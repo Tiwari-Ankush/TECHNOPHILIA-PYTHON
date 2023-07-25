@@ -1,0 +1,17 @@
+{
+    "error": false,
+    "category": "Programming",
+    "type": "single",
+    "joke": "Your mama's so FAT she can't save files bigger than 4GB.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": true
+    },
+    "id": 9,
+    "safe": false,
+    "lang": "en"
+}

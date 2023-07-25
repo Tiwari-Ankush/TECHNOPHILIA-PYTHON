@@ -6,18 +6,21 @@ why we using network >> communication using computers and sharing resources
 
 Internet --> It is basically a collection of collection of networks ( around the globe)
 
-CRUD 
+types of http request
+CRUD >>
+    Create  --> Post
+    Read    --> Get
+    Update  --> Put
+    Delete  --> Delete
 
-Create  --> Post
+ip take cares that our packet reaches out to their destination properly
 
-Read    --> Get
+frontend - client side
+backend - server side
 
-Update  --> Put
+API- generally sends data in the form of JSON
 
-Delete  --> Delete
-
-
-
+JSON is a human readable format.
 
 how website works?
 
@@ -39,7 +42,11 @@ how data is fetch from internet?
 
 what is client side?
 
-parts of web? what is TCB/IP ?
+parts of web? what is TCP/IP ? where tcp is used?
+
+how TCP protocol works?
+
+what is domain on internet?
 
 what is DNS ? how we use it and why?
 
@@ -47,7 +54,35 @@ difference betn http and https? what is ssl actually?
 
 what does mean that data fetched in chunks?
 
+what is buffering?
 
+what is udp (user data protocol)?
+
+what is qic protocol of google?
+
+what is connection establishment?
+
+what is term called PING?
+
+what happens when we run ping www.google.com on cmd?
+
+what is name server? and why it comes?
+
+differnt types of ip addresses??  eg,ip4, ip6 
+
+what are the type of http request?
+
+what is frontend and backend? major differences betn these two?
+
+frontend developer vs backend developer?
+
+
+
+why we use postman app ?
+
+what is API? what is programming interface?
+
+what is JSON ?
 
 
 
