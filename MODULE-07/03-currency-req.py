@@ -8,20 +8,20 @@ response = requests.get(url)
 # print(response)
 
 data = response.json()
-print(data)
+# print(data)
 
 for x in data.keys():
-    if x == "rates":
-        currency_data = data['rates']
+    if x == "data":
+        currency_data = data['data']
         for d in currency_data.keys():
             if d == 'INR':
-                # print("{} : {}".format(d, currency_data[d]))
+                print("\n {} : {}".format(d, currency_data[d]))
                 inr = currency_data[d]
                 break
 
-# # inr = data["rates"]["INR"]
+inr = data["data"]["INR"]
 
-# user_input = int(input("Enter the Dollars: "))
-# k = user_input*inr
-# print("The Dollars when converted in Indian Rupees will be equal to: {}".format(k))
+user_input = int(input("Enter the Dollars: "))
+k = user_input*inr
+print("The Dollars when converted in Indian Rupees will be equal to: {}".format(k))
 
