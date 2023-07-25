@@ -4,7 +4,7 @@ internet --> It is a collection of networks.
 network --> It is a group or system of interconnected computers/mobiles.
 why we using network >> communication using computers and sharing resources
 
-Internet --> It is basically a collection of collection of networks 
+Internet --> It is basically a collection of collection of networks ( around the globe)
 
 CRUD 
 
@@ -18,9 +18,36 @@ Delete  --> Delete
 
 
 
+
 how website works?
+
+difference between internet and Internet?
 
 what is internet, clients , server??
 
 how internet works?
+
+what is actually a data server?
+
+what is cookies on internet or browser? use of it ?
+
+what isp and  ip address? how i can change my ip address?
+
+what is VPN?
+
+how data is fetch from internet?
+
+what is client side?
+
+parts of web? what is TCB/IP ?
+
+what is DNS ? how we use it and why?
+
+difference betn http and https? what is ssl actually?
+
+what does mean that data fetched in chunks?
+
+
+
+
 
