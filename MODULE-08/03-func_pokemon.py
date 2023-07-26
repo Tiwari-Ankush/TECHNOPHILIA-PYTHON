@@ -9,11 +9,11 @@ def get_pokemon_data():
 
 def plot_pokemon_image(recieved_data):
     url_data = requests.get(recieved_data["cards"][1]["imageUrl"])
-    with open('./poke.png','wb') as f:
+    with open('./MODULE-08/pokemon2.png','wb') as f:
         for item in url_data.iter_content(1024):
             f.write(item)
 
-    image_data = plt.imread('./poke.png')
+    image_data = plt.imread('./MODULE-08/pokemon2.png')
     plt.imshow(image_data)
     plt.show()          
 

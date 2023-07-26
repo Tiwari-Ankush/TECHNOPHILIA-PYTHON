@@ -23,10 +23,10 @@ import matplotlib.pyplot as plt
 # print(url_data)
 
 url_data = requests.get(recieved_data["cards"][0]["imageUrl"])
-with open('./pokemon.png','wb') as f:
+with open('./MODULE-08/pokemon.png','wb') as f:
     for item in url_data.iter_content(4096):
         f.write(item)
 
-image_data = plt.imread('./pokemon.png')
+image_data = plt.imread('./MODULE-08/pokemon.png')
 plt.imshow(image_data)
 plt.show()        
