@@ -1,6 +1,16 @@
 import requests
+
+
+# url = "https://api.pokemontcg.io/v1/cards?name=ninetales"
+
+url = "https://api.pokemontcg.io/v1/cards?name=mew"
+
+# now by user input 
 poke_name = input("Enter the name of Pokemon: ")
+
 url = "https://api.pokemontcg.io/v1/cards?name={}".format(poke_name)
+
+
 
 response = requests.get(url)
 print(response)
@@ -13,10 +23,10 @@ import matplotlib.pyplot as plt
 # print(url_data)
 
 url_data = requests.get(recieved_data["cards"][0]["imageUrl"])
-with open('./poke.png','wb') as f:
+with open('./pokemon.png','wb') as f:
     for item in url_data.iter_content(4096):
         f.write(item)
 
-# image_data = plt.imread('./poke.png')
-# plt.imshow(image_data)
-# plt.show()        
+image_data = plt.imread('./pokemon.png')
+plt.imshow(image_data)
+plt.show()        
