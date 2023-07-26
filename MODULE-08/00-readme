@@ -1,0 +1,30 @@
+https://dev.pokemontcg.io/dashboard
+
+api link-
+"https://api.pokemontcg.io/v1/cards?name={}"
+
+WEB SCRAPPING>> EXTRACTING THE DATA BASICALLY
+    . IT IS KNOWN AS WEB DATA EXTRACTION
+    . IT REFERS TO EXTRACTING DATA FROM WEB PAGES
+    . THEY DONT EFFECT THE WEB PAGES
+    . WE CAN LOAD AND EXTRACT DATA DROM MULTIPLE PAGES
+    . BEAUTIFUL SOUP IS USED FOR WEB SCRAPPING USING PYTHON
+
+
+
+
+
+
+
+WHAT IS PIL (PYTHON IMAGE LIBRARY)??
+
+what is web scrapping?
+
+what is beautiful soup library of python ?
+
+OPENCV LIBRARY
+CV2 LIBRARY
+MATPLOTLIB LIB
+NUMPY LIB
+PIL LIB
+BS4 LIB
