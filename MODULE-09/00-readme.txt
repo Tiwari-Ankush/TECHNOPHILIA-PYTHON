@@ -31,3 +31,13 @@ what is css?
 what is javascript?
 important html tags?
 
+in html  code >>
+    <a href="https://www.github.com" target="_blank">Link for github</a>
+    in above loc >>
+        target="_blank" is for redicting a website on new page
+
+FLASK >>
+    it is a micro framework because it is lightweight
+    and basically used at a backend developement
+    it basically similar to python code, it avoids unnecessary boilerplates
+    
