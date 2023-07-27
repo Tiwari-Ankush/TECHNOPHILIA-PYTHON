@@ -18,9 +18,11 @@ def chingchong():
 def tiwaribro():
     return render_template("index.html")    
 
+# dynamic routing 
 @app.route("/<name>")
 def greetings(name):
-    return "Hello! " + name.upper()
+    return "Hello! " + name.capitalize()
+# for output http://127.0.0.1:8080/ankush
 
 if __name__ == "__main__":
     app.run(debug=True, port=8080)

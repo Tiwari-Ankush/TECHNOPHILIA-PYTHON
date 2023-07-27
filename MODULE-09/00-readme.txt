@@ -42,5 +42,6 @@ FLASK >>
     it basically similar to python code, it avoids unnecessary boilerplates
 
 what is routing in flask?
+what is dynamic routing??
 what is port number ?
 what is localhost basically?
