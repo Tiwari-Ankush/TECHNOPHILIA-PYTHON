@@ -16,9 +16,18 @@ why we use flask module
 
 setup::
     creating virtual environment 
-        pip install virualenv 
+       1. pip install virualenv 
     activating the environment
         
         cd location_for_flask_setup 
-        virualenv venv
-        venv\scripts\activate
+       2.  virualenv venv
+       3.  venv\scripts\activate
+       4. pip install flask
+
+what is markup ?
+what is html?
+what is weebpage?
+what is css?
+what is javascript?
+important html tags?
+
