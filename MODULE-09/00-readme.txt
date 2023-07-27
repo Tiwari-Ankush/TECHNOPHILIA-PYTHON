@@ -8,4 +8,12 @@ https://www.imdb.com/
 "
     6 digit id was not avai;able 
     therefore for making it to 7, we will add 0 in front of id
-    
+
+
+what is flask MODULE
+
+why we use flask module 
+
+setup::
+    virtual environment 
+    pip install virualenv 
