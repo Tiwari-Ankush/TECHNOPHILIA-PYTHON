@@ -15,5 +15,10 @@ what is flask MODULE
 why we use flask module 
 
 setup::
-    virtual environment 
-    pip install virualenv 
+    creating virtual environment 
+        pip install virualenv 
+    activating the environment
+        
+        cd location_for_flask_setup 
+        virualenv venv
+        venv\scripts\activate
