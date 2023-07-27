@@ -40,4 +40,7 @@ FLASK >>
     it is a micro framework because it is lightweight
     and basically used at a backend developement
     it basically similar to python code, it avoids unnecessary boilerplates
-    
+
+what is routing in flask?
+what is port number ?
+what is localhost basically?
