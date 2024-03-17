@@ -20,6 +20,8 @@ import os  # Module for interacting with the operating system
 # Define a class named Scraper
 class Scraper:
 
+
+        
     # Constructor method to initialize the object with a website URL
     def __init__(self, site):
 
